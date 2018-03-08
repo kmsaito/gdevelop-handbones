@@ -18,8 +18,17 @@ To try this game on itch.io, here's the link: https://kmsaito.itch.io/human-bone
 
 ## Screenshots
 
-Level 1: ![Level 1](https://github.com/kmsaito/gdevelop-humanbones/blob/master/Level1_ss.png "Level 1")
+Level 1: 
+![Level 1](https://github.com/kmsaito/gdevelop-humanbones/blob/master/Level1_ss.png "Level 1")
 
-Level 2: ![Level 2](https://github.com/kmsaito/gdevelop-humanbones/blob/master/Level2_ss.png "Level 2")
+Level 2: 
+![Level 2](https://github.com/kmsaito/gdevelop-humanbones/blob/master/Level2_ss.png "Level 2")
+
+## Resources
+
+Step by step guide for a simpler version of this game:
+
+
+
 
 
